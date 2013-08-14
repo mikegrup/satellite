@@ -1,0 +1,179 @@
+@article{janjai2009model,
+  title={A model for calculating hourly global solar radiation from satellite data in the tropics},
+  author={Janjai, S and Pankaew, P and Laksanaboonsong, J},
+  journal={Applied Energy},
+  volume={86},
+  number={9},
+  pages={1450--1457},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{csenkal2009estimation,
+  title={Estimation of solar radiation over Turkey using artificial neural network and satellite data},
+  author={{\c{S}}enkal, Ozan and Kuleli, Tuncay},
+  journal={Applied Energy},
+  volume={86},
+  number={7},
+  pages={1222--1228},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{zarzalejo2005artificial,
+  title={Artificial intelligence techniques applied to hourly global irradiance estimation from satellite-derived cloud index},
+  author={Zarzalejo, Luis F and Ramirez, Lourdes and Polo, Jesus},
+  journal={Energy},
+  volume={30},
+  number={9},
+  pages={1685--1697},
+  year={2005},
+  publisher={Elsevier}
+}
+
+@article{csenkal2010modeling,
+  title={Modeling of solar radiation using remote sensing and artificial neural network in Turkey},
+  author={{\c{S}}enkal, Ozan},
+  journal={Energy},
+  volume={35},
+  number={12},
+  pages={4795--4801},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{cano1986method,
+  title={A method for the determination of the global solar radiation from meteorological satellite data},
+  author={Cano, Daniel and Monget, Jean-Marie and Albuisson, Michel and Guillard, Herv{\'e} and Regas, Nathalie and Wald, Lucien},
+  journal={Solar Energy},
+  volume={37},
+  number={1},
+  pages={31--39},
+  year={1986},
+  publisher={Elsevier}
+}
+
+@inproceedings{perez2002new,
+  title={A New Operational Satellite-to-Irradiance Model--Description and Validation},
+  author={Perez, Richard and Moore, Kathy and Kmiecik, Marek and Chain, Cyril and Ineichen, Pierre and George, Ray and Vignola, Frank},
+  booktitle={PROCEEDINGS OF THE SOLAR CONFERENCE},
+  pages={315--322},
+  year={2002},
+  organization={AMERICAN SOLAR ENERGY SOCIETY; AMERICAN INSTITUTE OF ARCHITECTS}
+}
+
+@article{schmetz1989towards,
+  title={Towards a surface radiation climatology: Retrieval of downward irradiances from satellites},
+  author={Schmetz, Johannes},
+  journal={Atmospheric Research},
+  volume={23},
+  number={3},
+  pages={287--321},
+  year={1989},
+  publisher={Elsevier}
+}
+
+@article{stuhlmann1990improvement,
+  title={An improvement of the IGMK model to derive total and diffuse solar radiation at the surface from satellite data.},
+  author={Stuhlmann, Rolf and Rieland, Martin and Raschke, Ehrhard and others},
+  journal={Journal of Applied Meteorology},
+  volume={29},
+  number={7},
+  pages={586--603},
+  year={1990}
+}
+
+@article{ineichen1999derivation,
+  title={Derivation of cloud index from geostationary satellites and application to the production of solar irradiance and daylight illuminance data},
+  author={Ineichen, Pierre and Perez, Richard},
+  journal={Theoretical and Applied Climatology},
+  volume={64},
+  number={1-2},
+  pages={119--130},
+  year={1999},
+  publisher={Springer}
+}
+
+@article{hammer2003solar,
+  title={Solar energy assessment using remote sensing technologies},
+  author={Hammer, Annette and Heinemann, Detlev and Hoyer, Carsten and Kuhlemann, Rolf and Lorenz, Elke and M{\"u}ller, Richard and Beyer, Hans Georg},
+  journal={Remote Sensing of Environment},
+  volume={86},
+  number={3},
+  pages={423--432},
+  year={2003},
+  publisher={Elsevier}
+}
+
+@article{martins2007satellite,
+  title={Satellite-derived solar resource maps for Brazil under SWERA project},
+  author={Martins, FR and Pereira, EB and Abreu, SL},
+  journal={Solar Energy},
+  volume={81},
+  number={4},
+  pages={517--528},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{janjai2005development,
+  title={Development of a method for generating operational solar radiation maps from satellite data for a tropical environment},
+  author={Janjai, S and Laksanaboonsong, J and Nunez, M and Thongsathitya, A},
+  journal={Solar Energy},
+  volume={78},
+  number={6},
+  pages={739--751},
+  year={2005},
+  publisher={Elsevier}
+}
+
+
+@article{pinker1985modeling,
+  title={Modeling surface solar radiation: Model formulation and validation.},
+  author={Pinker, RT and Ewing, JA},
+  journal={Journal of Applied Meteorology},
+  volume={24},
+  pages={389--401},
+  year={1985}
+}
+
+@article{zelenka1999effective,
+  title={Effective accuracy of satellite-derived hourly irradiances},
+  author={Zelenka, A and Perez, R and Seals, R and Renn{\'e}, D},
+  journal={Theoretical and Applied Climatology},
+  volume={62},
+  number={3-4},
+  pages={199--207},
+  year={1999},
+  publisher={Springer}
+}
+
+@article{zarzalejo2009new,
+  title={A new statistical approach for deriving global solar radiation from satellite images},
+  author={Zarzalejo, Luis F and Polo, Jes{\'u}s and Mart{\'\i}n, Luis and Ram{\'\i}rez, Lourdes and Espinar, Bella},
+  journal={Solar Energy},
+  volume={83},
+  number={4},
+  pages={480--484},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@inproceedings{boser1992training,
+  title={A training algorithm for optimal margin classifiers},
+  author={Boser, Bernhard E and Guyon, Isabelle M and Vapnik, Vladimir N},
+  booktitle={Proceedings of the fifth annual workshop on Computational learning theory},
+  pages={144--152},
+  year={1992},
+  organization={ACM}
+}
+
+
+
+
+
+
+
+
+
+

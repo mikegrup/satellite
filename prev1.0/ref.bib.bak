@@ -1,0 +1,324 @@
+\bibitem {Magarey98}
+J. Magarey and N. Kingsbury \emph{Motion Estimation using a Complex-valued Wavelet Transform},
+\hskip 1em plus 0.5em minus 0.4em\relax IEEE Transactions on Signal Processing, 46(4), 1069--1084, 1998.
+
+\bibitem {Arking77}
+A. Arking and R. C. Lo and A. Rosenfeld \emph{A Fourier Approach to Cloud Motion Estimation},
+\hskip 1em plus 0.5em minus 0.4em\relax Journal of Applied Meteorology, 735--744, 1977.
+
+\bibitem {Beauchemin95}
+S. S. Beauchemin and J. L. Barron \emph{The Computation of Optical Flow},
+\hskip 1em plus 0.5em minus 0.4em\relax ACM Computing Surveys (CSUR) Surveys 27(3), Sept. 1995.
+
+\bibitem {Marcello09}
+J. Marcello and F. Eugenio and F. Marques, \emph{Cloud Motion Estimation in Seviri Image Sequences},
+\hskip 1em plus 0.5em minus 0.4em\relax IEEE IGARS, 2009.
+
+\bibitem {Heas08}
+P. Heas and E. Memin, \emph{Three-Dimensional Motion Estimation of Atmospheric Layers From Image Sequences},
+\hskip 1em plus 0.5em minus 0.4em\relax IEEE Transactions on Geoscience and Remote Sensing, 46(8), 2385--2396, AUGUST 2008.
+
+\bibitem {HHuang11}
+H. Huang and S. Yoo and D. Yu and D. Huang and H. Qin, \emph{Cloud Motion Detection for Short Term Solar Power Prediction},
+\hskip 1em plus 0.5em minus 0.4em\relax ICML 2011 Workshop on Machine Learning for Global Challenges.
+
+%\bibitem {segises}
+%Solar Energy Grid Integration Systems -- Energy Storage (SEGIS-ES)
+%\hskip 1em plus 0.5em minus 0.4em\relax DOE Program Concept Paper, May 2008
+%
+%\bibitem {segis}
+%Solar Energy Grid Integration Systems ``SEGIS''
+%\hskip 1em plus 0.5em minus 0.4em\relax DOE Program Concept Paper, Oct. 2007
+
+%\bibitem {willert:91}
+%C. E. Willert and M. Gharib, \emph{Digital particle image velocimetry},
+%\hskip 1em plus 0.5em minus 0.4em\relax 10, 181--193, 1991.
+%
+%\bibitem {westerweel:05}
+%J. Westerweel and F. Scarano, \emph{Universal outlier detection for PIV data},
+%\hskip 1em plus 0.5em minus 0.4em\relax Experiments in Fluids, 39(6), 1096--1100, 2005.
+%
+%\bibitem {doi}
+%C. M. Kishtawal, S.K. Deb, P. K. Pal and P. C. Joshi, \emph{Estimation of Atmospheric Motion Vectors from Kalpana-1 Imagers},
+%\hskip 1em plus 0.5em minus 0.4em\relax Journal of Applied Meteorology and Climatology, 48(11), 2410--2421, 2009.
+
+\bibitem {barnea:72}
+D. I. Barnea and H. F. Silverman, \emph{A class of algorithms for fast digital image registration},
+\hskip 1em plus 0.5em minus 0.4em\relax IEEE Trans. Computers, 21, 179--186, 1972
+
+%\bibitem {westerweel:94}
+%J. Westerweel, \emph{Efficient detection of spurious vectors in particle image velocimetry data},
+%\hskip 1em plus 0.5em minus 0.4em\relax 16, 236--247, 1994.
+
+\bibitem {kass:87}
+M. Kass, A. Witkin and D. Terzopoulos, \emph{Snakes: Active contour models},
+\hskip 1em plus 0.5em minus 0.4em\relax Proc. 1st Int. Conf. on Computer Vision, 259--268, 1987.
+
+\bibitem {lindsey:95}
+A. R. Lindsey, \emph{The Non-Existence of a Wavelet Function Admitting a Wavelet Transform Convolution Theorem of the Fourier Type},
+\hskip 1em plus 0.5em minus 0.4em\relax Rome Laboratory, 1995.
+
+
+%\bibitem {lucas:81}
+%B. D. Lucas and T. Kanade, \emph{An Iterative Image Registration Technique with an Application to Stereo Vision},
+%\hskip 1em plus 0.5em minus 0.4em\relax Proc. IJCAI, 1981.
+
+
+\bibitem {decarlo:96}
+D. Decarlo and D. Metaxas, \emph{Deformable Model Based Face Shape and Motion Estimation},
+\hskip 1em plus 0.5em minus 0.4em\relax Proc. International Conf. Face and Gesture Recognition, 1996.
+
+\bibitem {reda:03}
+I. Reda and A. Andreas, A, \emph{Solar position algorithm for solar radiation application},
+\hskip 1em plus 0.5em minus 0.4em\relax National Renewable Energy Laboratory (NREL) Technical report NREL/TP-560-34302, 2003.
+
+\bibitem {chanwimaluang:06}
+T. Chanwimaluang, G. Fan, and S. R. Fransen, \emph{Hybrid retinal image registration},
+\hskip 1em plus 0.5em minus 0.4em\relax IEEE Trans. Info. Tech. Biomed., 10(1), 129--142, 2006.
+
+\bibitem {glomb:09}
+P. Glomb, \emph{Detection of interest points on 3D data: Extending the harris operator},
+\hskip 1em plus 0.5em minus 0.4em\relax In Computer Recognition Systems 3, vol. 57 of Advances in Soft Computing. Springer Berlin / Heidelberg, 103--111, 2009.
+
+\bibitem {arm10}
+\emph{TSI Images 2010},
+\hskip 1em plus 0.5em minus 0.4em\relax {http://www.arm.gov/instruments/tsi},
+Atmospheric Radiation Measurement (ARM) Climate Research Facility,2010.
+
+
+\bibitem {anandan:89}
+P. Anandan, \emph{A computational framework and an algorithm for the measurement of visual motion},
+\hskip 1em plus 0.5em minus 0.4em\relax Int. J. Computer Vision 2(3), 283--310, 1989.
+
+\bibitem {burt:82}
+P. J. Burt, C. Yen, X. Xu, \emph{Local correlation measures for motion analysis: a comparitive study},
+\hskip 1em plus 0.5em minus 0.4em\relax IEEE Conf. Pattern Recognition Image Processing, 269--274, 1982.
+
+\bibitem {ryan:81}
+T. W. Ryan, \emph{The prediction of cross-correlation accuracy in digital stereo-Pair images},
+\hskip 1em plus 0.5em minus 0.4em\relax 1981.
+
+\bibitem {lewis:95}
+J. P. Lewis, \emph{Fast normalized cross-correlation},
+\hskip 1em plus 0.5em minus 0.4em\relax Vision Interface, 1995.
+
+\bibitem {greenwald:02}
+T. J. Greenwald, R. Hertenstein, T. Vukicevic, \emph{An all-weather observational operator for radiance data assimilation with mesoscale forecast Models},
+\hskip 1em plus 0.5em minus 0.4em\relax Mon. Wea. Rev., 130, 1882--1897, 2002.
+
+\bibitem {vukicevic:04}
+T. Vukicevic, T. Greenwald, M. Zupanski, D. Zupanski, T. Vonder Haar, A. S. Jones, \emph{Mesoscale cloud state estimation from visible and infrared satellite radiances},
+\hskip 1em plus 0.5em minus 0.4em\relax Monthly Weather Review. 132(12), 3066--3077. Dec. 2004.
+
+\bibitem {fogt:08}
+R. L. Fogt, D. H. Bromwich, \emph{Atmospheric moisture and cloud cover characteristics forecast by AMPS},
+\hskip 1em plus 0.5em minus 0.4em\relax Wea. Forecasting, 23, 914--930. 2008.
+
+%\bibitem {makhoul:75}
+%J. Makhoul, \emph{Linear prediction: A tutorial review},
+%\hskip 1em plus 0.5em minus 0.4em\relax Proceedings of the IEEE, 63 (5):561--580, April 1975.
+
+\bibitem {rubner:00}
+Y. Rubner, C. Tomasi, L. J. Guibas, \emph{The earth mover's distance as a metric for image retrieval},
+\hskip 1em plus 0.5em minus 0.4em\relax International Journal of Computer Vision 40(2), 99--121, 2000.
+
+
+\bibitem {brox:04}
+T. Brox, A. Bruhn, N. Papenberg, J. Weickert, \emph{High accuracy optical flow estimation based on a theory for warping},
+\hskip 1em plus 0.5em minus 0.4em\relax Computer Vision-ECCV, 3024, 25--36, 2004.
+
+\bibitem {brox:11}
+T. Brox, J. Malik, \emph{Large displacement optical flow: descriptor matching in variational motion estimation},
+\hskip 1em plus 0.5em minus 0.4em\relax IEEE Transactions on Pattern Analysis and Machine Intelligence, 33(3), 500--513, Mar. 2011.
+
+\bibitem {RRoger:1979}
+R. R. Rogers. \emph{A short course in cloud physics, 2nd Edition.},
+\hskip 1em plus 0.5em minus 0.4em\relax Pergamon Press, Oxford, England, 235 pp, 1979.
+
+\bibitem {CWChowa:2011}
+C. W. Chowa, B. Urquharta, M. Lavea, A. Domingueza, J. Kleissla, J. Shieldsb and B. Washomc. \emph{Intra-hour forecasting with a total sky imager at the UC San Diego solar energy testbed},
+\hskip 1em plus 0.5em minus 0.4em\relax Solar Energy, 85(11), 2881--2893, 2011.
+
+\bibitem {Zhong:1996}
+S. Zhong, J. D. Fast, and X. Bian. \emph{A Case Study of the Great Plains Low-Level Jet Using Wind Profiler Network Data and a High-Resolution Mesoscale Model},
+\hskip 1em plus 0.5em minus 0.4em\relax Monthly Weather Review, 124, 785--806, 1996.
+
+
+\bibitem {Zhang:1996}
+C. Zhang. \emph{Atmospheric Intraseasonal Variability at the Surface in the Tropical Western Pacific Ocean},
+\hskip 1em plus 0.5em minus 0.4em\relax Journal of Atmospheric Sciences, 53(5), 739--758, 1996.
+
+
+
+@article{Coifman:2006,
+author = {R.~R. Coifman and S.~Lafon},
+title = {Diffusion maps},
+journal = {Applied and Computational Harmonic Analysis},
+volume = {21(1)},
+pages = {5-30},
+year = {2006},
+}
+
+
+@article{JianSun:2009,
+author = {J.~Sun and M.~Ovsjanikov and L.~Guibas},
+title = {A concise and provably informative multi-scale signature based on
+ heat diffusion},
+journal = {SGP},
+pages = {1383-1392},
+year = {2009},
+}
+
+
+@article{VChandola:2009,
+author = {V. Chandola and A. Banerjee and V. Kumar},
+title = {Anomaly detection: a survey},
+journal = {ACM Computing Surveys},
+volume = {41(3)},
+pages = {1-72},
+year = {2009},
+}
+
+
+@article{FTLiu:2009,
+author = {F. T. Liu and K. M. Ting and Z. H. Zhou},
+title = {Isolation forest},
+journal = {IEEE ICDM},
+pages = {413-422},
+year = {2008},
+}
+
+@article{FTLiu:2010,
+author = {F. T. Liu and K. M. Ting},
+title = {Can Isolation-based anomaly detectors handle arbitrary multi-modal patterns in data?},
+journal = {Technical Report},
+year = {2010},
+}
+
+@article{KMTing:2010,
+author = {K. M. Ting and G. T. Zhou and F. T. Liu and J. S. Tan},
+title = {Mass estimation and its applications},
+journal = {ACM KDD},
+pages = {989-998},
+year = {2010},
+}
+
+@article{MMBreunig:2000,
+author = {M. M. Breunig and H. P. Kriegel and R. T. Ng and J. Sander},
+title = {LOF: identifying density-based local outliers},
+journal = {ACM SIGMOD},
+pages = {93-104},
+year = {2000},
+}
+
+@article{SPapadimitriou:2003,
+author = {S. Papadimitriou and H. Kitagawa and P. B. Gibbons and C. Faloutsos},
+title = {LOCI: Fast outlier detection using the local correlation integral},
+journal = {IEEE ICDE},
+pages = {315-326},
+year = {2003},
+}
+
+
+@article{CMarzban:2004,
+author = {C. Marzban},
+title = {A comment on the ROC curve and the area under it as performance measures},
+journal = {Technical Report},
+year = {2004},
+}
+
+@article{TVires:2010,
+author = {T. de Vires and S. Chawla and M. Houle},
+title = {Finding local anomalies in very highdimensional space},
+journal = {IEEE ICDM},
+pages = {128-137},
+year = {2010},
+}
+
+@article{Agovic:2007,
+author = {A. Agovic and A. Banerjee and A. R. Ganguly and V. Protopopescu},
+title = {Anomaly detection in transportation corridors using manifold embedding},
+journal = {the 1st International Workshop on Knowledge
+Discovery from Sensor Data},
+year = {2007},
+}
+
+@article{ASinger:2008,
+author = {A. Singer and R. R. Coifman},
+title = {Non-linear independent component analysis with diffusion maps},
+journal = {Applied and Computational Harmonic Analysis},
+volume = {25(2)},
+pages = {226-239},
+year = {2008},
+}
+
+@article{DWZimmerman:1997,
+author = {D. W. Zimmerman},
+title = {A note on interpretation of the paired-samples t test},
+journal = {Journal of Educational and Behavioral Statistics},
+volume = {22(3)},
+pages = {349-360},
+year = {1997},
+}
+
+@article{HHuang:2011,
+author = {H. Huang and S. Yoo and H. Qin and D. Yu},
+title = {A robust clustering algorithm based on aggregated heat kernel mapping},
+journal = {IEEE ICDM},
+pages = {270-279},
+year = {2011},
+}
+
+
+@article{MA:2011,
+author = {M. Aubry and U. Schlickewei and D. Cremers},
+title = {The Wave Kernel Signature - A Quantum
+Mechanical Approach to Shape Analyis},
+journal = {IEEE CVPR},
+pages = {1626-1633},
+year = {2011},
+}
+
+@article{Hartigan:1978,
+author = {J.~A. Hartigan and M.~A. Wong},
+title = {Algorithm AS 136: a k-means clustering algorithm},
+journal = {Applied Statistics},
+volume = {28(1)},
+pages = {100-108},
+year = {1978},
+}
+
+
+
+@article{Greenstein:2006,
+author = {G. Greenstein and A. Zajonc},
+title = {The Quantum Challenge: Modern Research on the Foundations of Quantum Mechanics},
+journal = {Jones and Bartlett Publishers},
+year = {2006},
+}
+
+
+@article{Gonzalez:2003,
+author = {F. A. Gonzalez and D. Dasguptau},
+title = {Anomaly Detection Using Real-Valued Negative Selection},
+journal = {Genetic Programming and Evolvable Machines},
+volumn = {4(4)},
+pages = {383-403},
+year = {2003},
+}
+
+
+@article{Noto:2010,
+author = {K. Noto and C. E. Brodley and D. Slonim},
+title = {Anomaly Detection Using an Ensemble of Feature Models},
+journal = {IEEE ICDM},
+pages = {953-958},
+year = {2010},
+}
+
+@article{Maaten:2009,
+author = {L. van der Maaten and E. Postma and J. van der Herik},
+title = {Dimensionality reduction: A comparative review},
+journal = {Technical report},
+year = {2009},
+}

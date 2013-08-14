@@ -1,0 +1,96 @@
+\relax 
+\citation{perez2002new}
+\@writefile{toc}{\contentsline {section}{\numberline {I}Introduction}{1}}
+\newlabel{sec:intr}{{I}{1}}
+\newlabel{fig:multichl}{{I}{1}}
+\citation{zelenka1999effective}
+\citation{cano1986method}
+\citation{stuhlmann1990improvement}
+\citation{schmetz1989towards}
+\citation{ineichen1999derivation}
+\citation{hammer2003solar}
+\citation{janjai2005development}
+\citation{martins2007satellite}
+\citation{perez2004producing}
+\citation{zarzalejo2009new}
+\citation{zarzalejo2005artificial}
+\citation{csenkal2009estimation}
+\citation{csenkal2010modeling}
+\citation{ricciardelli2008physical}
+\citation{perez2010improving}
+\citation{perez2002new}
+\citation{leese1970determination}
+\citation{heinemann2006forecasting}
+\citation{gorsdorf2011cloud}
+\citation{yang2012hourly}
+\@writefile{toc}{\contentsline {section}{\numberline {II}Background}{2}}
+\newlabel{sec:bg}{{II}{2}}
+\@writefile{toc}{\contentsline {section}{\numberline {III}Preprocessing and modeling}{2}}
+\newlabel{sec:modeling}{{III}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-A}}Preprocessing}{2}}
+\newlabel{subsec:preprocessing}{{\unhbox \voidb@x \hbox {III-A}}{2}}
+\newlabel{fig:csfig}{{\unhbox \voidb@x \hbox {III-A}}{3}}
+\newlabel{eq:radnorm}{{1}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-B}}SVR modeling}{3}}
+\newlabel{subsec:SVR}{{\unhbox \voidb@x \hbox {III-B}}{3}}
+\newlabel{eq:estimation}{{2}{3}}
+\newlabel{fig:satpre}{{\unhbox \voidb@x \hbox {III-B}}{4}}
+\@writefile{toc}{\contentsline {section}{\numberline {IV}Motion Estimation and forecasting}{4}}
+\newlabel{sec:forecasting}{{IV}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-A}}Optical Flow Motion Estimation}{4}}
+\newlabel{subsec:OF}{{\unhbox \voidb@x \hbox {IV-A}}{4}}
+\newlabel{fig:OFME}{{\unhbox \voidb@x \hbox {IV-A}}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-B}}Optical Flow vs. Block-based matching}{4}}
+\newlabel{subsec:DFDresult}{{\unhbox \voidb@x \hbox {IV-B}}{4}}
+\newlabel{eq:DFD}{{7}{4}}
+\@writefile{toc}{\contentsline {section}{\numberline {V}Radiation Prediction Models}{4}}
+\newlabel{sec:Models}{{V}{4}}
+\citation{perez2002new}
+\newlabel{fig:DFD}{{\unhbox \voidb@x \hbox {IV-B}}{5}}
+\@writefile{toc}{\contentsline {section}{\numberline {VI}Experiment Results}{5}}
+\newlabel{sec:result}{{VI}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-A}}Dataset}{5}}
+\newlabel{subsec:dataset}{{\unhbox \voidb@x \hbox {VI-A}}{5}}
+\@writefile{lot}{\contentsline {table}{\numberline {I}{\ignorespaces Satellite Model Dataset}}{6}}
+\newlabel{tab:dataset}{{I}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-B}}Estimation Evaluation}{6}}
+\newlabel{subsec:esti_e}{{\unhbox \voidb@x \hbox {VI-B}}{6}}
+\newlabel{eq:MAE}{{16}{6}}
+\newlabel{eq:MSE}{{17}{6}}
+\newlabel{fig:modelsmse}{{\unhbox \voidb@x \hbox {VI-B}}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Averge MSE Plot of 5-fold cross validation}}{6}}
+\newlabel{fig:modelsmae}{{\unhbox \voidb@x \hbox {VI-B}}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Averge MAE Plot of 5-fold cross validation}}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-C}}Forecast Result}{6}}
+\newlabel{subsec:forecast_e}{{\unhbox \voidb@x \hbox {VI-C}}{6}}
+\newlabel{fig:mepred}{{\unhbox \voidb@x \hbox {VI-C}}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces MSE score of Motion Estimation with $SVR-RBF_{rad} Forecasting$}}{6}}
+\newlabel{fig:modelsmse_pre}{{\unhbox \voidb@x \hbox {VI-C}}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces MSE score of 7 forecasting models}}{6}}
+\newlabel{fig:modelsmae_pre}{{\unhbox \voidb@x \hbox {VI-C}}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces MAE score of 7 forecasting models}}{6}}
+\@writefile{toc}{\contentsline {section}{\numberline {VII}Conclusion}{6}}
+\newlabel{sec:conclusion}{{VII}{6}}
+\bibdata{satellite}
+\bibcite{perez2002new}{1}
+\bibcite{zelenka1999effective}{2}
+\bibcite{cano1986method}{3}
+\bibcite{stuhlmann1990improvement}{4}
+\bibcite{schmetz1989towards}{5}
+\bibcite{ineichen1999derivation}{6}
+\bibcite{hammer2003solar}{7}
+\bibcite{janjai2005development}{8}
+\bibcite{martins2007satellite}{9}
+\bibcite{perez2004producing}{10}
+\bibcite{zarzalejo2009new}{11}
+\bibcite{zarzalejo2005artificial}{12}
+\bibcite{csenkal2009estimation}{13}
+\bibcite{csenkal2010modeling}{14}
+\bibcite{ricciardelli2008physical}{15}
+\bibcite{perez2010improving}{16}
+\bibcite{leese1970determination}{17}
+\bibcite{heinemann2006forecasting}{18}
+\bibcite{gorsdorf2011cloud}{19}
+\bibcite{yang2012hourly}{20}
+\bibstyle{IEEEtran}
+\@writefile{toc}{\contentsline {section}{References}{7}}

@@ -1,0 +1,126 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{cote1995neural}
+S.~Cote and A.~Tatnall, ``A neural network-based method for tracking features
+  from satellitesensor images,'' \emph{International Journal of Remote
+  Sensing}, vol.~16, no.~18, pp. 3695--3701, 1995.
+
+\bibitem{leese1970determination}
+J.~A. Leese, C.~S. Novak, and V.~Ray~Taylor, ``The determination of cloud
+  pattern motions from geosynchronous satellite image data,'' \emph{Pattern
+  Recognition}, vol.~2, no.~4, pp. 279--292, 1970.
+
+\bibitem{perez2002new}
+R.~Perez, P.~Ineichen, K.~Moore, M.~Kmiecik, C.~Chain, R.~George, and
+  F.~Vignola, ``A new operational model for satellite-derived irradiances:
+  description and validation,'' \emph{Solar Energy}, vol.~73, no.~5, pp.
+  307--317, 2002.
+
+\bibitem{stuhlmann1990improvement}
+R.~Stuhlmann, M.~Rieland, E.~Raschke, \emph{et~al.}, ``An improvement of the
+  igmk model to derive total and diffuse solar radiation at the surface from
+  satellite data.'' \emph{Journal of Applied Meteorology}, vol.~29, no.~7, pp.
+  586--603, 1990.
+
+\bibitem{schmetz1989towards}
+J.~Schmetz, ``Towards a surface radiation climatology: Retrieval of downward
+  irradiances from satellites,'' \emph{Atmospheric Research}, vol.~23, no.~3,
+  pp. 287--321, 1989.
+
+\bibitem{ineichen1999derivation}
+P.~Ineichen and R.~Perez, ``Derivation of cloud index from geostationary
+  satellites and application to the production of solar irradiance and daylight
+  illuminance data,'' \emph{Theoretical and Applied Climatology}, vol.~64, no.
+  1-2, pp. 119--130, 1999.
+
+\bibitem{hammer2003solar}
+A.~Hammer, D.~Heinemann, C.~Hoyer, R.~Kuhlemann, E.~Lorenz, R.~M{\"u}ller, and
+  H.~G. Beyer, ``Solar energy assessment using remote sensing technologies,''
+  \emph{Remote Sensing of Environment}, vol.~86, no.~3, pp. 423--432, 2003.
+
+\bibitem{janjai2005development}
+S.~Janjai, J.~Laksanaboonsong, M.~Nunez, and A.~Thongsathitya, ``Development of
+  a method for generating operational solar radiation maps from satellite data
+  for a tropical environment,'' \emph{Solar Energy}, vol.~78, no.~6, pp.
+  739--751, 2005.
+
+\bibitem{perez2004producing}
+R.~Perez, P.~Ineichen, M.~Kmiecik, K.~Moore, D.~Renne, and R.~George,
+  ``Producing satellite-derived irradiances in complex arid terrain,''
+  \emph{Solar Energy}, vol.~77, no.~4, pp. 367--371, 2004.
+
+\bibitem{zarzalejo2009new}
+L.~F. Zarzalejo, J.~Polo, L.~Mart{\'\i}n, L.~Ram{\'\i}rez, and B.~Espinar, ``A
+  new statistical approach for deriving global solar radiation from satellite
+  images,'' \emph{Solar Energy}, vol.~83, no.~4, pp. 480--484, 2009.
+
+\bibitem{csenkal2009estimation}
+O.~{\c{S}}enkal and T.~Kuleli, ``Estimation of solar radiation over turkey
+  using artificial neural network and satellite data,'' \emph{Applied Energy},
+  vol.~86, no.~7, pp. 1222--1228, 2009.
+
+\bibitem{csenkal2010modeling}
+O.~{\c{S}}enkal, ``Modeling of solar radiation using remote sensing and
+  artificial neural network in turkey,'' \emph{Energy}, vol.~35, no.~12, pp.
+  4795--4801, 2010.
+
+\bibitem{perez2010improving}
+R.~Perez, S.~Kivalov, A.~Zelenka, J.~Schlemmer, and K.~Hemker~Jr, ``Improving
+  the performance of satellite-to-irradiance models using the satellite’s
+  infrared sensors,'' in \emph{Proc. of American Solar Energy Society’s
+  Annual Conference, Phoenix, AZ}, 2010.
+
+\bibitem{ricciardelli2008physical}
+E.~Ricciardelli, F.~Romano, and V.~Cuomo, ``Physical and statistical approaches
+  for cloud identification using meteosat second generation-spinning enhanced
+  visible and infrared imager data,'' \emph{Remote Sensing of Environment},
+  vol. 112, no.~6, pp. 2741--2760, 2008.
+
+\bibitem{heinemann2006forecasting}
+D.~Heinemann, E.~Lorenz, and M.~Girodo, ``Forecasting of solar radiation,''
+  \emph{) Solar energy resource management for electricity generation from
+  local level to global scale. Nova Science Publishers, New York}, 2006.
+
+\bibitem{gorsdorf2011cloud}
+U.~G{\"o}rsdorf, A.~Seifert, V.~Lehmann, and M.~K{\"o}hler, ``Cloud statistics
+  and nwp-model validation based on long term measurements of a 35 ghz radar,''
+  in \emph{35th Conference on Radar Meteorology}, 2011, pp. 26--30.
+
+\bibitem{yang2012hourly}
+D.~Yang, P.~Jirutitijaroen, and W.~M. Walsh, ``Hourly solar irradiance time
+  series forecasting using cloud cover index,'' \emph{Solar Energy}, 2012.
+
+\bibitem{GOES:2013:Online}
+\BIBentryALTinterwordspacing
+NOAA-NASA. (2013) Noaa-nasa goes project science. [Online]. Available:
+  \url{http://http://rsd.gsfc.nasa.gov/goes/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{lucas1981iterative}
+B.~D. Lucas, T.~Kanade, \emph{et~al.}, ``An iterative image registration
+  technique with an application to stereo vision,'' in \emph{Proceedings of the
+  7th international joint conference on Artificial intelligence}, 1981.
+
+\bibitem{smola2004tutorial}
+A.~J. Smola and B.~Sch{\"o}lkopf, ``A tutorial on support vector regression,''
+  \emph{Statistics and computing}, vol.~14, no.~3, pp. 199--222, 2004.
+
+\end{thebibliography}

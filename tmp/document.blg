@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: document.aux
+The style file: IEEEtran.bst
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: document.bib
+Warning--string name "feb." is undefined
+--line 278 of file document.bib
+-- IEEEtran.bst version 1.11 (2003/04/02) by Michael Shell.
+-- http://www.ctan.org/tex-archive/macros/latex/contrib/supported/IEEEtran/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
+You've used 20 entries,
+            3975 wiz_defined-function locations,
+            921 strings with 11171 characters,
+and the built_in function-call counts, 16789 in all, are:
+= -- 1384
+> -- 415
+< -- 169
++ -- 232
+- -- 68
+* -- 827
+:= -- 2504
+add.period$ -- 40
+call.type$ -- 20
+change.case$ -- 20
+chr.to.int$ -- 378
+cite$ -- 20
+duplicate$ -- 1178
+empty$ -- 1242
+format.name$ -- 85
+if$ -- 3851
+int.to.chr$ -- 0
+int.to.str$ -- 20
+missing$ -- 199
+newline$ -- 82
+num.names$ -- 20
+pop$ -- 417
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 1309
+stack$ -- 0
+substring$ -- 901
+swap$ -- 1031
+text.length$ -- 43
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 0
+warning$ -- 0
+while$ -- 80
+width$ -- 22
+write$ -- 224
+(There was 1 warning)
